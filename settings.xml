@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>								<!-- vanila   /	  mod  -->
+	<cost_troop>6.25</cost_troop>		<!-- 6.25 (float) 12.5 -->
+	<cost_ransom>0.8</cost_ransom>    	<!-- 0.25 (float) 0.8  -->
+	<wage_double>true</wage_double>		<!-- false (bool) true (vanila x1.41 (1d_23d), merc x1.5 //mod x2 (1d_64d); vanila x1.4(0)1+_1,41176470588235) -->
+	<hire_discount>true</hire_discount>	<!-- false (bool) true (15% to 5% for steward 25; sturg 25% infantry to 10% for foot melee and ranged, at khuzait)  -->
+
+	<cost_merc>1.0625</cost_merc>		<!-- 1.25 (float) 1.125 -->
+	<cost_mounted>1.5</cost_mounted>	<!-- ____ (float) 1.5 vs 200 (t1) or 500 (t2+) -->
+
+	<cost_xp_up>12.5</cost_xp_up> <!-- mod 12.5 -->
+
+
+</Settings>
